@@ -1,0 +1,23 @@
+.Quiz__Questions-Count {
+    display: flex;
+    flex-direction: row;    
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.Question-Number {
+    display: block;
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    line-height: 30px;
+    border-radius: 50%;    
+    color: white;
+    background: #3297d3;
+}
+
+.Question-Number--Active {
+    background: green;
+}

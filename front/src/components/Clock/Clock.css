@@ -1,0 +1,16 @@
+.Clock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 20px;
+    margin: 0 auto;            
+    font-size: 1rem;
+}
+
+.Clock__Time {
+    width: inherit;
+    height: inherit;
+    font-size: 1.5em;
+    font-weight: bolder;
+}

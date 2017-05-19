@@ -1,0 +1,25 @@
+.Answer {
+    display: block;
+    margin: 0 0 10px 0;
+}
+
+.Answer__button {
+    width: 50%;    
+    padding: 8px;
+    border: 1px solid black;
+    border-radius: 7px;
+    color: #337ab7;
+    background: transparent;
+}
+
+.Answer__button:focus {
+    outline: none;
+}
+
+.Answer__button--correct {
+
+}
+
+.Answer__button--wrong {
+
+}
